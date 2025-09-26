@@ -1,5 +1,7 @@
 # Builder Board
 
+> !!! this is an old version, the new version could be seen in [https://github.com/BeWaterXYZ/bewater-frontend](https://github.com/BeWaterXYZ/bewater-frontend)
+
 Builder Board is a platform that showcases and tracks developer contributions and project activities in the Web3 ecosystem. It provides insights into projects, developers, and their impact on the blockchain space.
 
 ## Features
